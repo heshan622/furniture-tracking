@@ -1,6 +1,5 @@
 {
   "version": 2,
-  "extends": null,
   "experimentalServices": {
     "frontend": {
       "root": "frontend",
