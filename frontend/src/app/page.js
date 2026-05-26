@@ -27,7 +27,7 @@ export default function Dashboard() {
 
     try {
       // Update your fetch lines to point to your live backend url:
-      const res = await fetch('https://finez-furniture-backend.vercel.app/api/audit-delivery',  {
+      const res = await fetch('https://vercel.com/heshan622s-projects/finez-furniture-backend.vercel.app/api/audit-delivery',  {
         method: "POST",
         body: formData,
       });
